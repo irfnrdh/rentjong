@@ -1,3 +1,4 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ismail_Saleh_and_Turino_Djunaidy_in_Rentjong_dan_Surat_Film_Varia_Nov_1953_p9.jpg/2560px-Ismail_Saleh_and_Turino_Djunaidy_in_Rentjong_dan_Surat_Film_Varia_Nov_1953_p9.jpg)
 # Rentjong
 An Automation Recon Using Popular Toolkit for Newbie Bug Hunter / Penetration Tester / Red Team
 
